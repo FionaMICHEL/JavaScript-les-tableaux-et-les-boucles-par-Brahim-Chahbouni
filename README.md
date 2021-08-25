@@ -1,1 +1,1 @@
-# JavaScript-les-tableaux-et-les-boucles-par-Brahim-Chahbouni
+# JavaScript, les tableaux et les boucles par Brahim Chahbouni
